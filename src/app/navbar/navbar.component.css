@@ -1,0 +1,17 @@
+/*header*/
+.header_area .main_menu
+{
+
+    background-color: #ec3237;
+}
+
+.header_area .main_menu .navbar-nav .nav-item a
+{
+    color:white
+}
+
+.header_area .main_menu .navbar-brand
+{
+    color:white
+}
+/*end header*/
